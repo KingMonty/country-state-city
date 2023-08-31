@@ -1,5 +1,4 @@
 node_modules
-lib
 coverage
 # Ignore all the files inside the node_modules folder
 data/**/*.*
@@ -11,3 +10,5 @@ src/assets/*.gz
 !data/**/*.lite.json
 !data/**/*.timezones.json
 !data/allCountries.json
+node_modules
+/node_modules
